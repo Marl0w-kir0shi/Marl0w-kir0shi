@@ -2,7 +2,6 @@
 
 I am a passionate Cyber Security student, driven by a curiosity for technology and security. My main interests involve diving into the world of computer science, exploring Open-Source-Projekte und die Ästhetik von Cyberpunk.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
