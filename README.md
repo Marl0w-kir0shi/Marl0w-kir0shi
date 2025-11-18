@@ -1,7 +1,27 @@
-## Hi there 👋
+# Hi, I'm Marlow 👋
+
+I am a passionate Cyber Security student, driven by a curiosity for technology and security. My main interests involve diving into the world of computer science, exploring Open-Source-Projekte und die Ästhetik von Cyberpunk.
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+– Linus-Enthusiast
+– privacy-focused
+– #OwnYourGear
+
+## ⚡ Currently working
+
+– on a cyberpunk-themed Cyberdeck
+– on a OSINT-Stack
+– on learning various hacking techniques
+
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
 
 <!--
-**Marl0w-kir0shi/Marl0w-kir0shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
