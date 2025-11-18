@@ -6,13 +6,17 @@ I am a passionate Cyber Security student, driven by a curiosity for technology a
 ## 🚀 About Me
 
 – Linus-Enthusiast
+
 – privacy-focused
+
 – #OwnYourGear
 
 ## ⚡ Currently working
 
 – on a cyberpunk-themed Cyberdeck
+
 – on a OSINT-Stack
+
 – on learning various hacking techniques
 
 
