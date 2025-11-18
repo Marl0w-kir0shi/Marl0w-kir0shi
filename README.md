@@ -1,6 +1,6 @@
 # Hi, I'm Marlow 👋
 
-I am a passionate Cyber Security student, driven by a curiosity for technology and security. My main interests involve diving into the world of computer science, exploring Open-Source-Projekte und die Ästhetik von Cyberpunk.
+I am a passionate Cyber Security student, driven by a curiosity for technology and security. My main interests involve diving into the world of computer science, exploring Open-Source-Projekte and the aesthetic of Cyberpunk.
 
 
 ## 🚀 About Me
